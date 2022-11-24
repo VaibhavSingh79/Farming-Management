@@ -1,0 +1,12 @@
+when we want the elements to underline
+only when we place cursor on it:-
+
+declare a class in html a tag inside that element and then use that class as a property name
+for ex: using "active"(class name)
+
+
+#navbar li a.active{
+
+}
+
+this will allow us to specify all the required functionalities
